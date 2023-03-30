@@ -6,7 +6,7 @@ import Header from '@/components/Header';
 
 import UserHero from '@/components/users/UserHero';
 import UserBio from '@/components/users/UserBio';
-import PostFeed from '@/components/posts/postFeed';
+import PostFeed from '@/components/posts/PostFeed';
 
 const UserView = () => {
   const router = useRouter();
